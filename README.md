@@ -3,4 +3,6 @@
 
 - Como primer paso, se crea este repositorio con el fin de llevar un control de versiones para dicho proyecto.
 
--hola desde vs code 2
+<h2>Pasos de como jugar al amigo secreto</h2>
+
+1. Ingrese al <a href="https://challenge-amigo-secreto-nine.vercel.app">Juego del amigo secreto</a>
